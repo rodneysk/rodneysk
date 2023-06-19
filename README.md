@@ -9,8 +9,12 @@
 🖥️ Graduado em Sistemas de Informação pelo Ifes<br>
 🌌 Apaixonado por tecnologia e o espaço sideral
 
-  ##
+##
   
+  ![snake gif](https://github.com/rodneysk/rodneysk/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 Tecnologias
 
 <div>
@@ -36,8 +40,6 @@ Obrigado pela visita! Você também me encontra aqui:
 </div>
 
  ##
-
- ![snake gif](https://github.com/rodneysk/rodneysk/blob/output/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneysk&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&theme=holi)
 ![Rodney's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodneysk&show_icons=true&theme=holi&rank_icon=github)
