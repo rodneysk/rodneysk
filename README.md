@@ -1,20 +1,15 @@
+![snake gif](https://github.com/rodneysk/rodneysk/blob/output/github-contribution-grid-snake.svg)
+
 ### Opa, me chamo Rodney! 👋
 
 💻 Analista Pleno e Desenvolvedor Jr .NET | C# | Angular  
-🏝️⛰️ Capixaba 🏡 Vila Velha-ES 🌏 Brasil
-##
-
-💻 Atualmente trabalho com C#, .NET, Angular, SQL e Progress<br>
+🏝️⛰️ Capixaba 🏡 Vila Velha-ES 🌏 Brasil<br><br>
 📚 Me aprofundando nos estudos nas linguagens acima + containers<br>
 🖥️ Graduado em Sistemas de Informação pelo Ifes<br>
 🌌 Apaixonado por tecnologia e o espaço sideral
 
 ##
   
-  ![snake gif](https://github.com/rodneysk/rodneysk/blob/output/github-contribution-grid-snake.svg)
-
-##
-
 Tecnologias
 
 <div>
@@ -29,19 +24,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
   <img align="center" alt="Rod-MSSQL" height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />     
 </div>
 
+ ##
+
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodneysk&show_icons=true&theme=holi&rank_icon=github"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodneysk&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&theme=holi"/>
+</div>
+
 ##
 
-Obrigado pela visita! Você também me encontra aqui:
+Obrigado pela visita! 
 <div> 
   <a href="https://www.linkedin.com/in/rodneysk" target="_blank"><img height=25 width=75 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rodneysk@hotmail.com"><img height=25 width=100 src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/users/Gotinha#6271" target="_blank"><img height=25 width=75 src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/rodneysk" target="_blank"><img height=25 width=75 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
- ##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodneysk&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&theme=holi)
-![Rodney's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodneysk&show_icons=true&theme=holi&rank_icon=github)
-
 <!-- Ícones: https://devicon.dev/ -->
