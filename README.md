@@ -1,5 +1,3 @@
-![snake gif](https://github.com/rodneysk/rodneysk/blob/output/github-contribution-grid-snake.svg)
-
 ### Opa, me chamo Rodney! 👋
 
 💻 Analista Pleno e Desenvolvedor Jr .NET | C# | Angular  
